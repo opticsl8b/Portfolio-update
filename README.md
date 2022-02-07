@@ -86,7 +86,7 @@ A responsive navigate panel assist page browsing</p>
 <h3 align="center">- Skills -</h3>
 <br>
 <p align="center">
-<img src="https://i.imgur.com/Ec1SsVI.gif" title="source: imgur.com" alt="Skills"/>
+<img src="https://i.imgur.com/dCyr6cw.gif" title="source: imgur.com" alt="Skills"/>
 </p>
 <br>
 
@@ -103,35 +103,30 @@ A responsive navigate panel assist page browsing</p>
 </p>
 
 
-<li align="center">A slide show of projects done and links to the page</li>
-<br><br><hr>
+<p align="center">A slide show of projects done and links to the page</p>
+<br>
+<hr>
+<hr>
 
 
-<p align="center">
-<img src="https://i.imgur.com/5wOlB1C.gif" title="source: imgur.com" alt="CSS"/>
-</p>
-
-<li align="center">Using SKELETON as framework -simple solution for responsive  viewport</li>
-<br><hr>
+<br>
+<h3 align="center">- Contact Me / Footer -</h3>
 <br>
 <p align="center">
-<img src="https://i.imgur.com/qXmXawd.gif" title="source: imgur.com" alt="CSS"/>
+<img src="https://i.imgur.com/MRbTncS.gif" title="source: imgur.com" alt="Portfolio"/>
 </p>
-<li align="center">Button click/hover effect & Box shodow effect</li>
-<br><hr>
-<br>
 
+
+<p align="center">Present with Contact info</p>
+<br>
+<p align="center">Footer provides links to sections and social media page</p>
 
 <hr>
 <hr>
 
 <h2>Future scope</h2>
 
-- More Fiat dispay options
-
-- More Social media options-Youtube、Twitter...etc
-
-- Display coins by sectors ex: Defi / NFT / Metaverse
+- Service section Complete
 
 - More background animation options
 
@@ -143,5 +138,5 @@ A responsive navigate panel assist page browsing</p>
 <h3 align="center">Link to the page</h3>
 <br>
 
-https://opticsl8b.github.io/Project-Crypto-Lane/
+https://opticsl8b.github.io/Portfolio-update/
 
