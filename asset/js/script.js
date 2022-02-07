@@ -1,12 +1,10 @@
-/*==================== MENU SHOW Y HIDDEN ====================*/
+/*== MENU SHOW HIDDEN Via Y-axie ==*/
 const navMenu = document.getElementById('nav-menu');
 const navToggle = document.getElementById('nav-toggle');
 const navClose = document.getElementById('nav-close');
 const authorName = document.getElementById('author-name');
 
-
-
-/*===== MENU SHOW =====*/
+/*== MENU SHOW ==*/
 /* Validate if constant exists */
 if (navToggle) {
     navToggle.addEventListener('click', () => {

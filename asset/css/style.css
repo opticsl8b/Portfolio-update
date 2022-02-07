@@ -564,7 +564,7 @@ img {
 }
 
 
-/*==================== QUALIFICATION ====================*/
+/*== QUALIFICATION ==*/
 
 .qualification-tabs {
     display: flex;
@@ -634,10 +634,17 @@ img {
 }
 
 
-/* Active Modal */
+/*== SERVICES ==*/
+
+.services-img {
+    width: 200px;
+    border-radius: .5rem;
+    justify-self: center;
+    align-self: center;
+}
 
 
-/*==================== PORTFOLIO ====================*/
+/*== PORTFOLIO ==*/
 
 .portfolio-container {
     overflow: initial;
@@ -706,6 +713,8 @@ img {
 
 .contact-container {
     row-gap: 3rem;
+    grid-template-columns: 1fr, max-content, 1fr;
+    justify-content: center;
 }
 
 .contact-information {
@@ -991,6 +1000,9 @@ img {
     }
     .qualification-sections {
         grid-template-columns: .5fr;
+    }
+    .services-img {
+        width: 350px;
     }
     .portfolio-img {
         width: 320px;
