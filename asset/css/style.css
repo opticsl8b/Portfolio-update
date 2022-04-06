@@ -670,7 +670,7 @@ img {
 }
 
 .portfolio-button:hover .button-icon {
-    transform: translateX(.25rem)
+    transform: translateX(.35rem)
 }
 
 

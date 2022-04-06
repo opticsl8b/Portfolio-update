@@ -5,10 +5,19 @@
 
 <br>
 <h3 align="center">-- Update Portfolio --</h3>
+<h3 align="center">-- Mobile Preview --</h3>
 <br>
 
 <p align="center">
 <img src="https://i.imgur.com/V7mzS8m.png" title="source: imgur.com" alt="Update Portfolio Preview"/>
+</p>
+
+<br>
+<h3 align="center">-- Desktop Preview --</h3>
+<br>
+
+<p align="center">
+<img src="https://i.imgur.com/erNp1js.png" title="source: imgur.com" alt="Update Portfolio Preview"/>
 </p>
 
 <br>
@@ -22,6 +31,20 @@ A redesigned portfolio page with instinct UI base on previous skill loaded.</p>
 <h2>Funtions</h2>
 <br>
 
+<br>
+<h3 align="center">- Mobile Navigate Panel -</h3>
+<br>
+<p align="center">
+<img src="https://i.imgur.com/CuzkUWA.gif" title="source: imgur.com" alt="Navigate panel"/>
+</p>
+<br>
+<p align="center">
+A responsive navigate panel assist page browsing while on mobile viewport</p>
+<br>
+<hr>
+<hr>
+
+<br>
 <h3 align="center">- Initialise I-</h3>
 <br>
 
@@ -48,21 +71,7 @@ Display picture of avatar, icon links to Linkedin and github, briefly describe m
 A switch controlls day / night theme.</p>
 
 <br>
-<hr>
-<hr>
 
-<br>
-<h3 align="center">- Navigate Panel -</h3>
-<br>
-<p align="center">
-<img src="https://i.imgur.com/CuzkUWA.gif" title="source: imgur.com" alt="Navigate panel"/>
-</p>
-<br>
-<p align="center">
-A responsive navigate panel assist page browsing</p>
-
-
-<br>
 
 
 <hr>
