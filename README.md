@@ -4,7 +4,7 @@
 <hr>
 
 <br>
-<h3 align="center">-- Update Portfolio --</i> --</h3>
+<h3 align="center">-- Update Portfolio --</h3>
 <br>
 
 <p align="center">

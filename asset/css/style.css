@@ -512,16 +512,16 @@ img {
 
 /* Skills II */
 
-.skills-php {
-    width: 0%;
+.skills-mysql {
+    width: 70%;
 }
 
 .skills-node {
-    width: 20%;
+    width: 80%;
 }
 
-.skills-firebase {
-    width: 0%;
+.skills-Handlebar {
+    width: 70%;
 }
 
 .skills-python {
